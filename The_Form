@@ -26,14 +26,14 @@
        <input type = "number" id = "Phone"><br>
        <label for = "Nationality"> Where are you from?</label>
        <br>
-       <input type = "radio" name = "nation" value = "South Korea"> Randfontein <input type = "radio" name = "nation" value = "" "Australia"> Mogale City
-       <input type = "radio" name = "nation" value = ""> Greenhills
-       <input type = "radio" name = "nation" value = "Kenya"> Mohlakeng
-       <input type = "radio" name = "nation" value = "Ghana"> Ventersdorp
-       <input type = "radio" name = "nation" value = "Argentine"> Krugersdorp
-       <input type = "radio" name = "nation" value = "France"> Sering, Greenhills
-       <input type = "radio" name = "nation" value = "China"> Homelake 
-       <input type = "radio" name = "nation" value = "Zambia"> Toekomsrus
+       <input type = "radio" name = "nation" value = "City"> Randfontein <input type = "radio" name = "nation" value = "" "Australia"> Mogale City
+       <input type = "radio" name = "nation" value = "City"> Greenhills
+       <input type = "radio" name = "nation" value = "City"> Mohlakeng
+       <input type = "radio" name = "nation" value = "City"> Ventersdorp
+       <input type = "radio" name = "nation" value = "City"> Krugersdorp
+       <input type = "radio" name = "nation" value = "City"> Sering, Greenhills
+       <input type = "radio" name = "nation" value = "City"> Homelake 
+       <input type = "radio" name = "nation" value = "City"> Toekomsrus
        <input type = "radio" name = "nation" value = "City"> Falcon Road
        <input type = "radio" name = "nation" value = "City"> Village Square
        <input type = "radio" name = "nation" value = "City"> Tambotie Road</p>
@@ -45,21 +45,21 @@
        <br>
    <p>Do you have the following documents:</p>
     <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-    <label for="vehicle1"> I have a cerfiticate.</label>
+    <label for="vehicle1"> I have a cetificate.</label>
     <br>
     <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-    <label for="vehicle2"> I have a learners.</label>
+    <label for="object"> I have a learners.</label>
     <br>
     
     <input type="checkbox" id="certificate3" name="certificate3" value="Birth">
-    <label for="birth3">
+    <label for="object">
      I have a birth cerfiticate.
     <br>
-    <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
-    <label for="education3"> I have a notes.
+    <input type="checkbox" id="vehicle3" name="boat" value="Boat">
+    <label for="notes"> I have a notes.
     <br>
     <input type="checkbox" id="education3" name="education3" value="education">
-    <label for="vehicle3"> 
+    <label for="education"> 
     I have a strong education.
     <br>
     <br>
@@ -69,54 +69,6 @@
 <center>
 <sup> Copyright 2021</sup>
 </center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
