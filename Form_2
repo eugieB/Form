@@ -88,49 +88,49 @@
                       <br>
                       <br>
 
-                      <label for = "Nationality">Highest Education: </label>
+                      <label for = "highest education">Highest Education: </label>
                       <br>
                       <select>
-                        <option value="Area"> Primary</option>
-                        <option value="Area"> Highschool</option>
-                        <option value="Area"> College</option>
-                        <option value="Area"> Academy</option>
-                        <option value="Area"> E-Training</option>
-                        <option value="Area"> Friends</option>
+                        <option value="Zone"> Primary</option>
+                        <option value="Zone"> Highschool</option>
+                        <option value="Zone"> College</option>
+                        <option value="Zone"> Academy</option>
+                        <option value="Zone"> E-Training</option>
+                        <option value="People"> Friends</option>
                 </select>
                       <p> Select the town you are from:</p>
-                      <input type = "radio" name = "nation" value = "South Korea"> Randfontein <input type = "radio" name = "nation" value = "" "Australia"> Greenhills
-                      <input type = "radio" name = "nation" value = ""> Toekomsrus
+                      <input type = "radio" name = "nation" value = "City"> Randfontein <input type = "radio" name = "nation" value = "" "City"> Greenhills
+                      <input type = "radio" name = "nation" value = "City"> Toekomsrus
                       <!-- different input to the other one that is called radio. -->
-                      <input type = "radio" name = "nation" value = "Kenya"> Mohlakeng
-                      <input type = "radio" name = "nation" value = "Ghana"> Western Area 
+                      <input type = "radio" name = "nation" value = "City"> Mohlakeng
+                      <input type = "radio" name = "nation" value = "City"> Western Area 
                       </underline>
                       <!-- closes the underline code. -->
-                      <input type = "radio" name = "nation" value = "China"> Homestead
-                      <input type = "radio" name = "nation" value = "Zambia"> Sunnyside Road
+                      <input type = "radio" name = "nation" value = "City"> Homestead
+                      <input type = "radio" name = "nation" value = "City"> Sunnyside Road
                       <input type = "radio" name = "nation" value = "City"> Main Reef Road
                       <input type = "radio" name = "nation" value = "City"> Diamond Street
                       <input type = "radio" name = "nation" value = "City"> Aries Street
                       <br><br>
                       <label for = "email">Email: </label> 
                       <!-- still label it -->
-                      <input type = "number" id = "email">
+                      <input type = "email" id = "email">
                       <br>
-                      <label for = "email">Phone: </label> 
-                      <input type = "number" id = "Phone">
+                      <label for = "phone">Phone: </label> 
+                      <input type = "phone" id = "Phone">
                       <br>
                       <br><p> Relationship Status:</p>
-                      <input type = "radio" name = "sex" value = "male"> Male
+                      <input type = "radio" name = "birth" value = "male"> Male
                       <!-- still the same input for the user to do but called radio -->
-                      <input type = "radio" name = "sex" value = "female"> Female
-                      <input type = "radio" name = "sex" value = "other"> Other
+                      <input type = "radio" name = "birth" value = "female"> Female
+                      <input type = "radio" name = "birth" value = "other"> Other
                       <br>
                       <input type = "radio" name = "single" value = "single"> Single
                       <input type = "radio" name = "single" value = "single"> Married
                       <input type = "radio" name = "single" value = "single"> Divorced
                       <br> 
                       <br>
-                      <input type = "submit" value = "send">
+                      <button Onclick = ""/>
                       <!-- refreshes the users page to the top of it hence Send -->
                     </p> 
                 </form> 
@@ -138,51 +138,51 @@
                 <form>
                   <p> Provide the follow documents and please tick to confirm that they are here:</p>
                     <input type="checkbox" id="certificate1" name="certificate" value="cerfiticate">
-                    <!-- Checkbox to tick for teh users in teh class -->
-                    <label for="certificate"> I have a cerfiticate.</label>
+                    <!-- Checkbox to tick for teh users in the class -->
+                    <label for="cetificate"> I have a cetificate.</label>
                     <br>
                     <input type="checkbox" id="vlearner" name="learner2" value="Car">
                     <label for="learner2"> I have a learners.</label>
                     <br>
                     <!-- breakline -->
-                    <input type="checkbox" id="certificate3" name="certificate3" value="certificate">
-                    <label for="certificate3">
-                    I have a birth cerfiticate.
+                    <input type="checkbox" id="cetificate3" name="certificate3" value="certificate">
+                    <label for="cetificate3">
+                    I have a birth cetificate.
                     <br>
                     <input type="checkbox" id="3" name=note3"vehicle3" value="I have notes3">
                     <label for="notes3"> I have a notes.
                     <br>
-                    <input type="checkbox" id="education3" name="education3" value="education">
-                    <label for="education3"> 
+                    <input type="checkbox" id="education3" name="education3" value="strong">
+                    <label for="strong"> 
                     I have a strong education.
                     <br>
                     <input type="checkbox" id="account" name="education3" value="account">
-                    <label for="account3"> 
+                    <label for="education3"> 
                     I have a bank account.
                     <br>
                     <input type="checkbox" id="account" name="education3" value="account">
                     <label for="account3"> 
                     I have a car.
                     <br>
-                    <input type="checkbox" id="account" name="education3" value="account">
-                    <label for="account3"> 
+                    <input type="checkbox" id="account" name="education3" value="degree">
+                    <label for="degree"> 
                     I have a Bacholars Degree.
                     <br>
                     <!-- Break line still -->
-                    <input type="checkbox" id="account" name="education3" value="account">
-                    <label for="account3"> 
+                    <input type="checkbox" id="account" name="education3" value="laptop">
+                    <label for="laptop"> 
                     I have a Laptop.
                     <br>
-                    <input type="checkbox" id="account" name="education3" value="account">
-                    <label for="account3"> 
+                    <input type="checkbox" id="account" name="education3" value="phone">
+                    <label for="phone"> 
                     I have a Phone Number.
                     <br>
-                    <input type="checkbox" id="account" name="education3" value="account">
-                    <label for="account3"> 
+                    <input type="checkbox" id="account" name="education3" value="mask">
+                    <label for="mask"> 
                     I have a Mask.
                     <br>
-                    <input type="checkbox" id="account" name="education3" value="account">
-                    <label for="account3"> 
+                    <input type="checkbox" id="account" name="education3" value="mind">
+                    <label for="mind"> 
                     I have a reasonable project in mind.
                     <br>
                     <input type = "submit" value = "Pass">
@@ -201,57 +201,3 @@
 <!-- Closes the whole form. -->
 </html>
 <!-- Closes the whole html. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
