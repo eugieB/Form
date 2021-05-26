@@ -7,16 +7,16 @@ But I am not the manager but the instrustor tand teacher please take my advise b
 
 
 ## Features:
-Fills in 
-Questions 
-bullets points 
-Instructions. 
-Address. 
+* Fills in 
+* Questions 
+* Bullets points 
+* Instructions. 
+* Addresses
 
 ## Requirements
-Windows 10
-Ubuntu
-MAC OS Yosemite.
+* Windows 10
+* Ubuntu
+* MAC OS Yosemite.
 
 ## Source: 
 https://www.quackit.com/html/ 
